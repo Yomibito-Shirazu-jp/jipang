@@ -40,7 +40,7 @@ require (
 	github.com/lmittmann/w3 v0.20.7
 	github.com/minio/minio-go/v7 v7.0.85
 	github.com/multiformats/go-base32 v0.1.0
-	github.com/multiformats/go-multiaddr v0.16.0
+	github.com/multiformats/go-multiaddr v0.16.1
 	github.com/multiformats/go-multiaddr-dns v0.4.1
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
